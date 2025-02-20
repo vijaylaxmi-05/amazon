@@ -1,2 +1,2 @@
 # amazon
-created using html and css
+Created using HTML and CSS
